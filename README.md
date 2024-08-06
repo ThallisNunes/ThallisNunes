@@ -5,13 +5,13 @@ Eu me chamo Thallis Nunes, sou estudante de **Ciência da Computação** e estou
  - 🎮 Meus jogos favoritos são: Black, Terraria, Shadow of the Colossus e Stardew Valley.
 
 ## 🧑‍💻 Tecnologias & Ferramentas 
-<!--Créditos: https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md -->
+<!--Créditos: https://github.com/Envoy-VC/awesome-badges -->
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=white&color=blue)	
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)	
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=black&color=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## &#x1f4c8; Minhas Estatísticas
 <!--Créditos: https://github.com/Aveek-Saha/Aveek-Saha -->
