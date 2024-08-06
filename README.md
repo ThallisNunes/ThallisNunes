@@ -16,6 +16,6 @@ Eu me chamo Thallis Nunes, sou estudante de **Ciência da Computação** e estou
 ## &#x1f4c8; Minhas Estatísticas
 <!--Créditos: https://github.com/Aveek-Saha/Aveek-Saha -->
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=thallisn&show_icons=true&count_private=true&theme=darcula&hide_border=true&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=thallisn&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=thallisn&theme=darcula&hide_border=true&background=FFFFFF00">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=thallisn&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=thallisn&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=thallisn&theme=dark&hide_border=true&background=FFFFFF00">
