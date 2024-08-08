@@ -1,7 +1,7 @@
 ## Opa, tudo bem? 🙂✌️
 Eu me chamo Thallis Nunes, sou estudante de **Ciência da Computação** e estou aqui para compartilhar o meu desenvolvimento pessoal. 
  - 🌱 Atualmente estou aprendendo um pouco de cada coisa, mas especialmente Git e GitHub;
- - 🐕 Tenho um vovôzinho chamado Snooby (achei ele embaixo de um pé de Umbu ❤️);
+ - 🐕 Tenho um vovôzinho chamado Snooby (ele nasceu embaixo de um pé de Umbu ❤️);
  - 🎮 Meus jogos favoritos são: Black, Terraria, Shadow of the Colossus e Stardew Valley.
 
 ## 🧑‍💻 Tecnologias & Ferramentas 
